@@ -30,7 +30,7 @@
 
 ### GitHub Stats
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=joseCardona12&show_icons=true&theme=dark&line_height=25" alt="Kevin'm github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joseCardona12&theme=dark" width=""> |
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=joseCardona12&show_icons=true&theme=dark&line_height=25" alt="jose Cardona'm github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joseCardona12&theme=dark" width=""> |
 | --------- | --------- |
 
 ***
