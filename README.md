@@ -9,50 +9,21 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day. -->
 
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
+    # Jose Cardona
+    ## About Me
+    - **Location:** Medellín - Colombia
+    - **Occupation:** Graphic designer - UX/UI - Web developer
+    - **Interests:** Your Interests
+    - **Contact:** [Your Email](joseCardona12:josesiprozmaster@gmail.com)
 
-
-[![GitHub iampawan](https://img.shields.io/github/followers/joseCardona12?label=follow&style=social)](https://github.com/joseCardona12)
-
-
-
-### Languages and Tools:  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code> 
-
-<hr>
-
-### GitHub Stats
-
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=joseCardona12&show_icons=true&theme=dark&line_height=25" alt="jose Cardona'm github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joseCardona12&theme=dark" width=""> |
-| --------- | --------- |
-
-***
-
- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseCardona12&langs_count=10&theme=dark&layout=compact"> |
- | ----------- |
-
-
-### I hope you like my repositories! ❤️
-
+    ## Skills
+    - Skill 1
+    - Skill 2
+    - Skill 3
+  </div>
+  <div style="flex: 1;">
+    <img src="https://via.placeholder.com/150" alt="Your Image" style="max-width: 100%; height: auto;">
+  </div>
 </div>
-<!--
-**joseCardona12/joseCardona12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
