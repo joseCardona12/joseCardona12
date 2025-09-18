@@ -1,6 +1,6 @@
 # 👋 Hey, soy José Cardona  
 
-> “El diseño no es solo cómo se ve, sino cómo funciona.”* – Don Norman  
+> “El diseño no es solo cómo se ve, sino cómo funciona.” – Don Norman  
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
 
