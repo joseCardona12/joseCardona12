@@ -18,12 +18,15 @@
 ## 🛠️ Stack & Superpoderes  
 
 ### 🚀 Lenguajes & Frameworks  
+![HTML](https://img.shields.io/badge/-HTML-F7DF1E?logo=html&logoColor=000)  
+![CSS](https://img.shields.io/badge/-CSS-F7DF1E?logo=css&logoColor=000)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
+![Tailwind](https://img.shields.io/badge/-Tailwind-3178C6?logo=tailwind&logoColor=fff)  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)   
+![Python](https://img.shields.io/badge/-Python-339933?logo=python&logoColor=fff)   
 
 ### 🎨 Diseño & Creatividad  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)  
@@ -40,8 +43,8 @@
 
 ## 📊 Stats de GitHub  
 
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)  
+![José's GitHub stats]()  
+![Top Langs]()  
 
 ---
 
@@ -55,6 +58,6 @@
 ## 📫 Conecta conmigo
 🌐 [LinkedIn](https://www.linkedin.com/)  
 📧 [josesimonbarreto.design@gmail.com]  
-📂 [Portafolio / Página personal]  
+📂 [Portafolio / -]  
 
 ---
